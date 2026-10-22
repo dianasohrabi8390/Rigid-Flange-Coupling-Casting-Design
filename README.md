@@ -26,7 +26,7 @@ The main design considerations include:
 - Rounded corners and smooth transitions
 - Core and internal cavity design
 
-![Rigid flange coupling model](Images/coupling-model.png)
+![Rigid flange coupling model](Images/Rigidflange.jpeg)
 
 ## 4. Feeding System Design
 
