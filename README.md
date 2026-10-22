@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This project focuses on the casting design of a rigid flange shaft coupling, with particular emphasis on the design of the gating and feeding systems.
+This project focuses on the design of a gating and feeding system for a rigid flange shaft coupling using casting engineering principles.
 
 The objective is to develop a suitable casting layout that promotes complete mold filling, supports directional solidification, reduces turbulence, and minimizes molten metal waste.
 
@@ -11,49 +11,34 @@ The objective is to develop a suitable casting layout that promotes complete mol
 - **Component:** Rigid flange shaft coupling
 - **Material:** Gray cast iron
 - **Material specification:** ASTM A48 Class 30B
-- **Selected molding process:** DISAMATIC vertical flaskless green-sand molding
+- **Molding process:** DISAMATIC vertical flaskless green-sand molding
 - **CAD software:** SolidWorks
 
 ## 3. Casting Model Design
 
-The casting model was designed by considering the required dimensional allowances and molding constraints.
+The casting model was developed by considering dimensional allowances and molding requirements, including shrinkage allowance, machining allowance, draft angles, and internal cavity design.
 
-The main design considerations include:
+![Rigid Flange Coupling Model](./rigidflange.jpeg)
 
-- Linear shrinkage allowance
-- Machining allowance on critical surfaces
-- Draft angles for pattern removal
-- Rounded corners and smooth transitions
-- Core and internal cavity design
-
-![Rigid flange coupling model](Images/Rigidflange.jpeg)
+*Figure 1. Rigid flange coupling casting model.*
 
 ## 4. Feeding System Design
 
-The feeding system was designed using casting volume, cooling surface area, and modulus calculations.
+The feeding system was designed using casting volume, cooling surface area, and modulus calculations. Riser sizing was evaluated to support directional solidification and reduce the risk of shrinkage defects.
 
-The flange and hub sections were evaluated to identify differences in solidification behavior and establish a suitable feeding arrangement.
+![Feeding System Design](./feedingsystem.jpeg)
 
-The design also considers the use of a riser, a thermal sleeve, and a chill to improve feeding efficiency and promote directional solidification.
-
-![Feeding system design](Images/feeding-system.png)
+*Figure 2. Feeding system design for the rigid flange coupling.*
 
 ## 5. Gating System Design
 
-A pressurized gating system was selected for the gray iron casting.
+The gating system was designed to facilitate mold filling while considering the estimated casting weight, effective metallostatic head, and filling time.
 
-The gating design includes:
+The system includes the sprue, runner, gates, and associated pouring features.
 
-- Sprue
-- Runner
-- Gate
-- Pouring basin and sprue well
+![Gating System Design](./gatingsystem.jpeg)
 
-The gating system was dimensioned using the estimated casting weight, effective metallostatic head, and filling time.
-
-A nominal sprue-to-runner-to-gate area ratio of 3:2:1 was used as the design basis.
-
-![Gating system design](Images/gating-system.png)
+*Figure 3. Gating system design for the casting.*
 
 ## 6. Design Objectives
 
@@ -62,21 +47,21 @@ A nominal sprue-to-runner-to-gate area ratio of 3:2:1 was used as the design bas
 - Promote directional solidification.
 - Reduce shrinkage-related defect risk.
 - Improve feeding efficiency.
-- Minimize return metal and unnecessary machining.
+- Minimize excess molten metal and unnecessary machining.
 
 ## 7. Engineering Skills
 
 - Casting process selection
 - SolidWorks CAD modeling
-- Casting shrinkage and machining allowances
-- Chvorinov-related modulus and feeding calculations
+- Casting allowances
+- Modulus and riser design calculations
 - Gating system design
-- Riser sizing and placement
+- Feeding system design
 - Directional solidification principles
 - Casting process optimization
 
-## 8. Project Report
+## 8. Complete Project Report
 
-The complete report contains the design assumptions, calculations, component dimensions, and proposed casting layout.
+The complete report includes the design methodology, engineering calculations, and casting system design details.
 
-[View the complete project report](casting.pdf)
+[View or download the complete casting project report (PDF)](./casting.pdf)
